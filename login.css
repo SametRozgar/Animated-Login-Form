@@ -152,3 +152,16 @@ button
 
     
 }
+
+.sign-in-box {
+    position: relative;
+    border: 2px solid rgba(255, 255, 255, .5);
+    width: 400px;
+    height: 650px;
+    background: transparent;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(15px);
+  }
